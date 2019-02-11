@@ -39,7 +39,7 @@ class contacts extends JFrame {
 		setSize(780, 650);
 		setResizable(false);
 		setVisible(true);
-		//pack();
+		
 	}
 	
 	
